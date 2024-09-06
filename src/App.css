@@ -215,6 +215,11 @@ main {
       margin-left: 10%;
   }
 
+  body,
+  main {
+    overflow: auto;
+  }
+
   .desktop {
       display: none;
   }
