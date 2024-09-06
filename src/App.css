@@ -213,6 +213,7 @@ main {
       position: fixed;
       top: 20px;
       margin-left: 10%;
+      z-index: 10;
   }
 
   body,
